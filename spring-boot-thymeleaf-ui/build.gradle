@@ -1,0 +1,13 @@
+dependencies {
+    compile("org.springframework.boot:spring-boot-starter-web:0.5.0.BUILD-SNAPSHOT")
+
+    runtime("org.springframework.boot:spring-boot-starter-security:0.5.0.BUILD-SNAPSHOT")
+    runtime("org.thymeleaf:thymeleaf-spring4:2.1.2.RELEASE")
+
+    testCompile 'junit:junit:4.11'
+}
+repositories {
+    maven {
+        url 'http://repo.spring.io/snapshot'
+    }
+}

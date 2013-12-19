@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/spring-boot/spring-boot.iml" filepath="$PROJECT_DIR$/spring-boot/spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-thymeleaf-ui/spring-boot-thymeleaf-ui.iml" filepath="$PROJECT_DIR$/spring-boot-thymeleaf-ui/spring-boot-thymeleaf-ui.iml" />
     </modules>
   </component>
 </project>
