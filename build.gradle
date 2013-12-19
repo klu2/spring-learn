@@ -1,0 +1,13 @@
+apply plugin: 'idea'
+
+description = 'Spring Learn'
+
+version = '0.1'
+
+subprojects {
+    apply plugin: 'java'
+    apply plugin: 'idea'
+    repositories {
+        mavenCentral()
+    }
+}
