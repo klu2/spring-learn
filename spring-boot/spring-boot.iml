@@ -12,11 +12,11 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/klehner/.gradle/caches/artifacts-26/filestore/org.springframework.boot/spring-boot-starter-web/0.5.0.BUILD-SNAPSHOT/jar/f6209d7517eca7c13c457588a514d02ba2588448/spring-boot-starter-web-0.5.0.BUILD-SNAPSHOT.jar!/"/>
+          <root url="jar://C:/Users/klehner/.gradle/caches/artifacts-26/filestore/org.springframework.boot/spring-boot-starter-web/0.5.0.BUILD-SNAPSHOT/jar/bee5fb170c38b9420d360c1dbeebbc2e27e749cb/spring-boot-starter-web-0.5.0.BUILD-SNAPSHOT.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar://C:/Users/klehner/.gradle/caches/artifacts-26/filestore/org.springframework.boot/spring-boot-starter-web/0.5.0.BUILD-SNAPSHOT/source/642b30209ac6f241789d9656d31c4e0100eff36c/spring-boot-starter-web-0.5.0.BUILD-SNAPSHOT-sources.jar!/"/>
+          <root url="jar://C:/Users/klehner/.gradle/caches/artifacts-26/filestore/org.springframework.boot/spring-boot-starter-web/0.5.0.BUILD-SNAPSHOT/source/bc4f56721dbd2f34197a4bfad7076ee087bcbef/spring-boot-starter-web-0.5.0.BUILD-SNAPSHOT-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -100,22 +100,22 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/klehner/.gradle/caches/artifacts-26/filestore/org.springframework.boot/spring-boot/0.5.0.BUILD-SNAPSHOT/jar/3d878c62d76d402b63572d5221f924c099b5501f/spring-boot-0.5.0.BUILD-SNAPSHOT.jar!/"/>
+          <root url="jar://C:/Users/klehner/.gradle/caches/artifacts-26/filestore/org.springframework.boot/spring-boot/0.5.0.BUILD-SNAPSHOT/jar/2b1cefa60dab87edec99ed9359ecb05871f37588/spring-boot-0.5.0.BUILD-SNAPSHOT.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar://C:/Users/klehner/.gradle/caches/artifacts-26/filestore/org.springframework.boot/spring-boot/0.5.0.BUILD-SNAPSHOT/source/24bce174ac2569649f3a1f75540469d362a1f28b/spring-boot-0.5.0.BUILD-SNAPSHOT-sources.jar!/"/>
+          <root url="jar://C:/Users/klehner/.gradle/caches/artifacts-26/filestore/org.springframework.boot/spring-boot/0.5.0.BUILD-SNAPSHOT/source/b03154c948394494dbba283acd4f41cae430a835/spring-boot-0.5.0.BUILD-SNAPSHOT-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/klehner/.gradle/caches/artifacts-26/filestore/org.springframework.boot/spring-boot-autoconfigure/0.5.0.BUILD-SNAPSHOT/jar/3e18d0ed306d77cff7e00c64c8f8854adae05b6a/spring-boot-autoconfigure-0.5.0.BUILD-SNAPSHOT.jar!/"/>
+          <root url="jar://C:/Users/klehner/.gradle/caches/artifacts-26/filestore/org.springframework.boot/spring-boot-autoconfigure/0.5.0.BUILD-SNAPSHOT/jar/3d6af49a62d6ff22363529ae5aba60712f2b9f8d/spring-boot-autoconfigure-0.5.0.BUILD-SNAPSHOT.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar://C:/Users/klehner/.gradle/caches/artifacts-26/filestore/org.springframework.boot/spring-boot-autoconfigure/0.5.0.BUILD-SNAPSHOT/source/74a331ab63a4c832277e3f38c95de536b3eb573b/spring-boot-autoconfigure-0.5.0.BUILD-SNAPSHOT-sources.jar!/"/>
+          <root url="jar://C:/Users/klehner/.gradle/caches/artifacts-26/filestore/org.springframework.boot/spring-boot-autoconfigure/0.5.0.BUILD-SNAPSHOT/source/849669f24711ae095a0b8d48a0ceaf7c0617d065/spring-boot-autoconfigure-0.5.0.BUILD-SNAPSHOT-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -188,22 +188,22 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/klehner/.gradle/caches/artifacts-26/filestore/org.springframework.boot/spring-boot-starter-logging/0.5.0.BUILD-SNAPSHOT/jar/ad6df7cb485b639fa4ffbbffb85017d0af4c717a/spring-boot-starter-logging-0.5.0.BUILD-SNAPSHOT.jar!/"/>
+          <root url="jar://C:/Users/klehner/.gradle/caches/artifacts-26/filestore/org.springframework.boot/spring-boot-starter-logging/0.5.0.BUILD-SNAPSHOT/jar/8907180d6899f38683b07009a96b8e3183d4d0a7/spring-boot-starter-logging-0.5.0.BUILD-SNAPSHOT.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar://C:/Users/klehner/.gradle/caches/artifacts-26/filestore/org.springframework.boot/spring-boot-starter-logging/0.5.0.BUILD-SNAPSHOT/source/3d08dd7d89997fa4f03a51f2ae76a788f939555a/spring-boot-starter-logging-0.5.0.BUILD-SNAPSHOT-sources.jar!/"/>
+          <root url="jar://C:/Users/klehner/.gradle/caches/artifacts-26/filestore/org.springframework.boot/spring-boot-starter-logging/0.5.0.BUILD-SNAPSHOT/source/1a69b8524d297d40048a0c04b1cf255393358207/spring-boot-starter-logging-0.5.0.BUILD-SNAPSHOT-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/klehner/.gradle/caches/artifacts-26/filestore/org.springframework.boot/spring-boot-starter/0.5.0.BUILD-SNAPSHOT/jar/7cc3640abb356bdff9c70e4bc58be01d448973bc/spring-boot-starter-0.5.0.BUILD-SNAPSHOT.jar!/"/>
+          <root url="jar://C:/Users/klehner/.gradle/caches/artifacts-26/filestore/org.springframework.boot/spring-boot-starter/0.5.0.BUILD-SNAPSHOT/jar/f63450d0718f47a41a1c78f4c01f5875036c9454/spring-boot-starter-0.5.0.BUILD-SNAPSHOT.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar://C:/Users/klehner/.gradle/caches/artifacts-26/filestore/org.springframework.boot/spring-boot-starter/0.5.0.BUILD-SNAPSHOT/source/5d1b9907488f175d865b900c91cfbcf8159b5e5/spring-boot-starter-0.5.0.BUILD-SNAPSHOT-sources.jar!/"/>
+          <root url="jar://C:/Users/klehner/.gradle/caches/artifacts-26/filestore/org.springframework.boot/spring-boot-starter/0.5.0.BUILD-SNAPSHOT/source/f801f26ae55168fb38ca954b89ccea313e85f016/spring-boot-starter-0.5.0.BUILD-SNAPSHOT-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
@@ -232,11 +232,11 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://C:/Users/klehner/.gradle/caches/artifacts-26/filestore/org.springframework.boot/spring-boot-starter-tomcat/0.5.0.BUILD-SNAPSHOT/jar/fa3596a35d70554e0248f00bd96ae7204ccdaccd/spring-boot-starter-tomcat-0.5.0.BUILD-SNAPSHOT.jar!/"/>
+          <root url="jar://C:/Users/klehner/.gradle/caches/artifacts-26/filestore/org.springframework.boot/spring-boot-starter-tomcat/0.5.0.BUILD-SNAPSHOT/jar/bfc13ba4ea2f5d5971b565af1a0f8f477607e0f4/spring-boot-starter-tomcat-0.5.0.BUILD-SNAPSHOT.jar!/"/>
         </CLASSES>
         <JAVADOC/>
         <SOURCES>
-          <root url="jar://C:/Users/klehner/.gradle/caches/artifacts-26/filestore/org.springframework.boot/spring-boot-starter-tomcat/0.5.0.BUILD-SNAPSHOT/source/924249ff46d41e0cf299b906f4f49c5403863cec/spring-boot-starter-tomcat-0.5.0.BUILD-SNAPSHOT-sources.jar!/"/>
+          <root url="jar://C:/Users/klehner/.gradle/caches/artifacts-26/filestore/org.springframework.boot/spring-boot-starter-tomcat/0.5.0.BUILD-SNAPSHOT/source/aafdf72def553ee793bcb3e37c5d16b77764e2b5/spring-boot-starter-tomcat-0.5.0.BUILD-SNAPSHOT-sources.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>

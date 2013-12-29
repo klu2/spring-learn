@@ -1,1 +1,1 @@
-include 'spring-boot', 'spring-boot-thymeleaf-ui'
+include 'spring-boot', 'spring-boot-thymeleaf-ui', 'spring-boot-angularjs'

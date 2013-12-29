@@ -48,6 +48,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-boot/spring-boot.iml" filepath="$PROJECT_DIR$/spring-boot/spring-boot.iml"/>
       <module fileurl="file://$PROJECT_DIR$/spring-boot-thymeleaf-ui/spring-boot-thymeleaf-ui.iml" filepath="$PROJECT_DIR$/spring-boot-thymeleaf-ui/spring-boot-thymeleaf-ui.iml"/>
       <module fileurl="file://$PROJECT_DIR$/spring-learn.iml" filepath="$PROJECT_DIR$/spring-learn.iml"/>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-angularjs/spring-boot-angularjs.iml" filepath="$PROJECT_DIR$/spring-boot-angularjs/spring-boot-angularjs.iml"/>
     </modules>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-type="JavaSDK" assert-jdk-15="true" project-jdk-name="1.7">
