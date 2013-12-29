@@ -1,4 +1,4 @@
-package net.klu2.springlearn.angularjs.web;
+package net.klu2.springlearn.angularjs;
 
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.SpringApplication;
