@@ -31,6 +31,15 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.springframework.boot/spring-boot-starter-security/0.5.0.M6/jar/7eadbd95c0dc9e974608dcad5783de55fddf4e46/spring-boot-starter-security-0.5.0.M6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
           <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/mysql/mysql-connector-java/5.1.26/jar/f1697bef3639811e56173e70eb2471562e3ac8ef/mysql-connector-java-5.1.26.jar!/" />
         </CLASSES>
         <JAVADOC />
@@ -45,17 +54,6 @@
         <JAVADOC />
         <SOURCES>
           <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.thymeleaf/thymeleaf-spring3/2.0.17/source/6bf613b66cebfd381a83edbc0004c9cb261caf8/thymeleaf-spring3-2.0.17-sources.jar!/" />
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/aopalliance/aopalliance/1.0/jar/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/aopalliance/aopalliance/1.0/source/4a4b6d692e17846a9f3da036438a7ac491d3c814/aopalliance-1.0-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
@@ -89,6 +87,17 @@
         <JAVADOC />
         <SOURCES>
           <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.springframework/spring-beans/4.0.0.RC1/source/f02a637a6feffff8711400826148ab25076c01f5/spring-beans-4.0.0.RC1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/aopalliance/aopalliance/1.0/jar/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/aopalliance/aopalliance/1.0/source/4a4b6d692e17846a9f3da036438a7ac491d3c814/aopalliance-1.0-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
@@ -517,6 +526,39 @@
         <JAVADOC />
         <SOURCES>
           <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.springframework.data/spring-data-jpa/1.4.1.RELEASE/source/a7f13e130345dcf34a3f68b2f4a5b035bba81674/spring-data-jpa-1.4.1.RELEASE-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.springframework.security/spring-security-core/3.2.0.RC2/jar/b032b5cf512e4689044f6cce3827256499145455/spring-security-core-3.2.0.RC2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.springframework.security/spring-security-core/3.2.0.RC2/source/29f6831f3108a160add4a0e02eed4d291fd81c21/spring-security-core-3.2.0.RC2-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.springframework.security/spring-security-config/3.2.0.RC2/jar/d71f008c1edf415efc8d3e95e9ff048901d76fbe/spring-security-config-3.2.0.RC2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.springframework.security/spring-security-config/3.2.0.RC2/source/73b8bd99ab58c369f281c5378900c500cdb9d7bb/spring-security-config-3.2.0.RC2-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.springframework.security/spring-security-web/3.2.0.RC2/jar/ef18ae4de2f7a43247490f411b20d05baff1955d/spring-security-web-3.2.0.RC2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.springframework.security/spring-security-web/3.2.0.RC2/source/1d7bc5fb4bf2f2ef851ad32aa67212ecbd4f0913/spring-security-web-3.2.0.RC2-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
